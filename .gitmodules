@@ -1,0 +1,3 @@
+[submodule "blog/blog/themes/casper-two"]
+	path = blog/blog/themes/casper-two
+	url = https://github.com/eueung/hugo-casper-two.git
